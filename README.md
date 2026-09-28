@@ -1,2 +1,2 @@
-# CodeAlpha_Python_tasks
-A simple and user-friendly chatbot project built to make conversations quick, natural, and interactive. It understands user questions and provides helpful responses in real time. This project is a great starting point for learning chatbot development and exploring AI-powered conversational applications.
+
+A collection of Python programming projects completed as part of my CodeAlpha internship. This repository includes practical tasks and projects that helped me improve my Python skills, problem-solving abilities, and understanding of programming concepts through hands-on development.
